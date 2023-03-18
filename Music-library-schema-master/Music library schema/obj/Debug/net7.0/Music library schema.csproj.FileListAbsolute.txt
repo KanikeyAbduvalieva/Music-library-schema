@@ -1,0 +1,15 @@
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\bin\Debug\net7.0\Music library schema.exe
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\bin\Debug\net7.0\Music library schema.deps.json
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\bin\Debug\net7.0\Music library schema.runtimeconfig.json
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\bin\Debug\net7.0\Music library schema.dll
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\bin\Debug\net7.0\Music library schema.pdb
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\obj\Debug\net7.0\Music library schema.csproj.AssemblyReference.cache
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\obj\Debug\net7.0\Music library schema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\obj\Debug\net7.0\Music library schema.AssemblyInfoInputs.cache
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\obj\Debug\net7.0\Music library schema.AssemblyInfo.cs
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\obj\Debug\net7.0\Music library schema.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\obj\Debug\net7.0\Music library schema.dll
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\obj\Debug\net7.0\refint\Music library schema.dll
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\obj\Debug\net7.0\Music library schema.pdb
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\obj\Debug\net7.0\Music library schema.genruntimeconfig.cache
+C:\Users\TEMP.IUCA.002\Desktop\Music-library-schema-master\Music library schema\obj\Debug\net7.0\ref\Music library schema.dll
